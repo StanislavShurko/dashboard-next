@@ -26,7 +26,7 @@ To get started with this project, clone the repository and follow the instructio
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/nextjs-financial-dashboard.git
-   cd nextjs-financial-dashboard
+   cd nextjs-dashboard
    ```
 2. Install dependencies:
    ```
